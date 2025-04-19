@@ -29,6 +29,14 @@
   ],
   "author": "You",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/mitt-clone.git"
+  },
+  "homepage": "https://github.com/yourusername/mitt-clone",
+  "bugs": {
+    "url": "https://github.com/yourusername/mitt-clone/issues"
+  },
   "devDependencies": {
     "typescript": "~5.7.2",
     "vite": "^6.3.1",
