@@ -126,7 +126,7 @@ emitter.on('bar', (e) => {
 
 ## License
 
-MIT © Your Name
+MIT © Arvin Nazeri
 
 ## Credits
 
