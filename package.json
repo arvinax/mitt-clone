@@ -1,6 +1,6 @@
 {
   "name": "mitt-clone",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tiny event emitter library (clone of mitt)",
   "main": "./dist/mitt-clone.umd.js",
   "module": "./dist/mitt-clone.mjs",
